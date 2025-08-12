@@ -88,10 +88,10 @@ Missing-Cap: 30
   </tr>
   <tr>
    <td>
-<img src="images/polymer-insulator-upper-shackle_confusion_matrix.png" width="">
+<img src="images/polymer-insulator-upper-shackle_confusion_matrix.png" width="400">
    </td>
    <td>
-<img src="images/polymer-insulator-upper-shackle_precision_recall_curve.png" width="">
+<img src="images/polymer-insulator-upper-shackle_precision_recall_curve.png" width="400">
    </td>
   </tr>
 </table>
@@ -118,18 +118,18 @@ Predicted: Good
   </tr>
   <tr>
    <td>
-<img src="images/polymer-insulator-upper-shackle_correct_0_true_rust_pred_rust_01-06-2021_DJI_0547_159.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/polymer-insulator-upper-shackle_correct_0_true_rust_pred_rust_01-06-2021_DJI_0547_159.jpg" width="200">
   </td>
    <td>
-<img src="images/polymer-insulator-upper-shackle_correct_3_true_rust_pred_rust_11-06-2021_DJI_0142_7.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/polymer-insulator-upper-shackle_correct_3_true_rust_pred_rust_11-06-2021_DJI_0142_7.jpg" width="200">
    </td>
    <td>
 
-<img src="images/polymer-insulator-upper-shackle_correct_1_true_good_pred_good_Fotos 20-10-2020_DJI_0229_manilha_isolador_superior_1296.jpg" width="">
+<img src="images/polymer-insulator-upper-shackle_correct_1_true_good_pred_good_Fotos 20-10-2020_DJI_0229_manilha_isolador_superior_1296.jpg" width="200">
 
    </td>
    <td>
-<img src="images/polymer-insulator-upper-shackle_correct_4_true_good_pred_good_Fotos 02-12-2020_DJI_0351_manilha_isolador_superior_160.jpg" width="">
+<img src="images/polymer-insulator-upper-shackle_correct_4_true_good_pred_good_Fotos 02-12-2020_DJI_0351_manilha_isolador_superior_160.jpg" width="200">
    </td>
   </tr>
 </table>
@@ -152,10 +152,10 @@ Predicted: Good
   </tr>
   <tr>
    <td>
-<img src="images/polymer-insulator-upper-shackle_misclassified_3_true_rust_pred_good_Fotos 23-10-2020_DJI_0118_manilha_isolador_superior_1401.jpg" width="">
+<img src="images/polymer-insulator-upper-shackle_misclassified_3_true_rust_pred_good_Fotos 23-10-2020_DJI_0118_manilha_isolador_superior_1401.jpg" width="200">
    </td>
    <td>
-<img src="images/polymer-insulator-upper-shackle_misclassified_2_true_rust_pred_good_01-06-2021_DJI_0587_166.jpg" width="">
+<img src="images/polymer-insulator-upper-shackle_misclassified_2_true_rust_pred_good_01-06-2021_DJI_0587_166.jpg" width="200">
    </td>
   </tr>
 </table>
@@ -179,10 +179,10 @@ Predicted: Good
   </tr>
   <tr>
    <td>
-<img src="images/lightning-rod-suspension_confusion_matrix.png" width="">
+<img src="images/lightning-rod-suspension_confusion_matrix.png" width="400">
    </td>
    <td>
-<img src="images/lightning-rod-suspension_precision_recall_curve.png" width="">
+<img src="images/lightning-rod-suspension_precision_recall_curve.png" width="400">
    </td>
   </tr>
 </table>
@@ -209,16 +209,16 @@ Predicted: Rust
   </tr>
   <tr>
    <td>
-<img src="images/lightning-rod-suspension_correct_0_true_good_pred_good_Fotos 18-11-2020_DJI_0079_suspensao_para_raio_375.jpg" width="">
+<img src="images/lightning-rod-suspension_correct_0_true_good_pred_good_Fotos 18-11-2020_DJI_0079_suspensao_para_raio_375.jpg" width="200">
    </td>
    <td>
-<img src="images/lightning-rod-suspension_correct_2_true_good_pred_good_Fotos 19-11-2020_DJI_0195_suspensao_para_raio_392.jpg" width="">
+<img src="images/lightning-rod-suspension_correct_2_true_good_pred_good_Fotos 19-11-2020_DJI_0195_suspensao_para_raio_392.jpg" width="200">
    </td>
    <td>
-<img src="images/lightning-rod-suspension_correct_true_rust_pred_rust_08-06-2021_DJI_0320_396.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/lightning-rod-suspension_correct_true_rust_pred_rust_08-06-2021_DJI_0320_396.jpg" width="200">
    </td>
    <td>
-<img src="images/lightning-rod-suspension_correct_true_rust_pred_rust_09-06-2021_DJI_0058_456.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/lightning-rod-suspension_correct_true_rust_pred_rust_09-06-2021_DJI_0058_456.jpg" width="200">
    </td>
   </tr>
 </table>
@@ -236,10 +236,10 @@ Predicted: Rust
   </tr>
   <tr>
    <td>
-<img src="images/lightning-rod-suspension_misclassified_0_true_rust_pred_good_01-06-2021_DJI_0190_57.jpg" width="">
+<img src="images/lightning-rod-suspension_misclassified_0_true_rust_pred_good_01-06-2021_DJI_0190_57.jpg" width="200">
    </td>
    <td>
-<img src="images/lightning-rod-suspension_misclassified_1_true_good_pred_rust_Fotos 23-11-2020_DJI_0037_suspensao_para_raio_609.jpg" width="">
+<img src="images/lightning-rod-suspension_misclassified_1_true_good_pred_rust_Fotos 23-11-2020_DJI_0037_suspensao_para_raio_609.jpg" width="200">
    </td>
   </tr>
 </table>
@@ -262,10 +262,10 @@ Predicted: Rust
   </tr>
   <tr>
    <td>
-<img src="images/glass-insulator_confusion_matrix.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_confusion_matrix.png" width="400">
    </td>
    <td>
-<img src="images/glass-insulator_precision_recall_curve.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_precision_recall_curve.png" width="400">
    </td>
   </tr>
 </table>
@@ -292,16 +292,16 @@ Predicted: Missing-cap
   </tr>
   <tr>
    <td>
-<img src="images/glass-insulator_correct_true_good_pred_good_Fotos 16-11-2020_DJI_0018_cadeia_isolador_vidro_1497.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_correct_true_good_pred_good_Fotos 16-11-2020_DJI_0018_cadeia_isolador_vidro_1497.jpg" width="200">
    </td>
    <td>
-<img src="images/glass-insulator_correct_1_true_good_pred_good_Fotos 27-11-2020_DJI_0171_cadeia_isolador_vidro_2552.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_correct_1_true_good_pred_good_Fotos 27-11-2020_DJI_0171_cadeia_isolador_vidro_2552.jpg" width="200">
    </td>
    <td>
-<img src="images/glass-insulator_correct_2_true_missing-cap_pred_missing-cap_Fotos 08-12-2020_DJI_0378_cadeia_isolador_vidro_1422.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_correct_2_true_missing-cap_pred_missing-cap_Fotos 08-12-2020_DJI_0378_cadeia_isolador_vidro_1422.jpg" width="200">
    </td>
    <td>
-<img src="images/glass-insulator_correct_3_true_missing-cap_pred_missing-cap_Fotos 25-11-2020_DJI_0449_cadeia_isolador_vidro_1776.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/glass-insulator_correct_3_true_missing-cap_pred_missing-cap_Fotos 25-11-2020_DJI_0449_cadeia_isolador_vidro_1776.jpg" width="200">
    </td>
   </tr>
 </table>
@@ -324,10 +324,10 @@ Predicted: Good
   </tr>
   <tr>
    <td>
-     <img src="images/glass-insulator_misclassified_2_true_missing-cap_pred_good_Fotos 21-10-2020_DJI_0538_cadeia_isolador_vidro_1616.jpg" width="" alt="alt_text" title="image_tooltip">
+     <img src="images/glass-insulator_misclassified_2_true_missing-cap_pred_good_Fotos 21-10-2020_DJI_0538_cadeia_isolador_vidro_1616.jpg" width="200">
    </td>
    <td>
-    <img src="images/glass-insulator_misclassified_4_true_missing-cap_pred_good_Fotos 03-12-2020_DJI_0557_cadeia_isolador_vidro_698.jpg" width="" alt="alt_text" title="image_tooltip">
+    <img src="images/glass-insulator_misclassified_4_true_missing-cap_pred_good_Fotos 03-12-2020_DJI_0557_cadeia_isolador_vidro_698.jpg" width="200">
    </td>
   </tr>
 </table>
